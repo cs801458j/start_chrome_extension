@@ -1,0 +1,6 @@
+{
+  "name": "Getting Started Example By Eunjeong",
+  "version": "1.0",
+  "description": "Chrome extention test",
+  "manifest_version": 2
+}

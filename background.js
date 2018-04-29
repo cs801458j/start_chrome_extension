@@ -1,0 +1,1 @@
+{ "name" : "GGetting Started Example By Eunjeong" , "version" : "1.0" , "description" : "확장 빌드!" , "background" : { "scripts" : [ "background.js" ], "persistent" : false }, "manifest_version" : 2 }
